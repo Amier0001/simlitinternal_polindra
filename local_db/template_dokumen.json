@@ -1,0 +1,24 @@
+[
+    {
+        "id": "60f7b5afc524e1626846639",
+        "name": "dokumen_usulan",
+        "target": "Dokumen Usulan",
+        "original_name": "Template_dokumen_usulan.pdf",
+        "hash_name": "lQdFaN2wfUWtLpXz9IPeCLBNDUkanI1zAEixiSvD.pdf",
+        "base_name": "Template_dokumen_usulan",
+        "extension": "pdf",
+        "size": 28,
+        "datetime": "2021-07-31 18:21:57"
+    },
+    {
+        "id": "60f7b5afc529d1626846639",
+        "name": "dokumen_rab",
+        "target": "Dokumen RAB",
+        "original_name": "Template_dokumen_RAB.pdf",
+        "hash_name": "g9yUqzT5fzfD9W1Wat4BA9yAvu9npOKGXPTuRWTB.pdf",
+        "base_name": "Template_dokumen_RAB",
+        "extension": "pdf",
+        "size": 28,
+        "datetime": "2021-07-31 18:22:09"
+    }
+]

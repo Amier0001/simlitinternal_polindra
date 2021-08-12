@@ -1,0 +1,56 @@
+[
+    {
+        "id": "60f5688fa32e2",
+        "name": "tambah_usulan_penelitian",
+        "label": "Pengajuan Usulan Penelitian",
+        "start_year": "2021",
+        "end_year": "2022",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 18:55:00"
+    },
+    {
+        "id": "60f5688fa32ed",
+        "name": "nilai_usulan_penelitian",
+        "label": "Penilaian Usulan Penelitian Oleh Reviewer",
+        "start_year": "2021",
+        "end_year": "2021",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 22:55:00"
+    },
+    {
+        "id": "6104b2dc66bd4",
+        "name": "tambah_logbook_penelitian",
+        "label": "Pengumpulan Logbook Penelitian",
+        "start_year": "2021",
+        "end_year": "2021",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 22:55:00"
+    },
+    {
+        "id": "6104b32b458d0",
+        "name": "tambah_laporan_akhir_penelitian",
+        "label": "Pengumpulan Laporan Akhir Penelitian",
+        "start_year": "2021",
+        "end_year": "2021",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 22:55:00"
+    },
+    {
+        "id": "6104b3505d116",
+        "name": "tambah_laporan_kemajuan_penelitian",
+        "label": "Pengumpulan Laporan Kemajuan Penelitian",
+        "start_year": "2021",
+        "end_year": "2021",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 22:55:00"
+    },
+    {
+        "id": "6104b3617c4b4",
+        "name": "monev_laporan_kemajuan_penelitian",
+        "label": "Monev Penelitian Oleh Reviewer",
+        "start_year": "2021",
+        "end_year": "2021",
+        "start_time": "2021-08-01 18:55:00",
+        "end_time": "2021-08-31 22:55:00"
+    }
+]
